@@ -75,11 +75,7 @@ instr3           |              |
   * there are finitely many ASM instructions
 
 
-Example:
-
-:::::::::::::: {.columns}
-::: {.column width="40%"}
-In C:
+For instance, the following snippet in C:
 
 ~~~C
 a = 20;
@@ -87,11 +83,8 @@ b = 40;
 c = 50;
 d = (a + b) + c;
 ~~~
-:::
-::: {.column width="10%"}
-:::
-::: {.column width="40%"}
-In ASM:
+
+Would be (almost) equivalent to the following ASM code:
 
 ~~~gnuassembler
 ld a,20
@@ -101,8 +94,6 @@ add b
 add c
 ld d,a
 ~~~
-:::
-::::::::::::::
 
 ## ASM syntax
 
