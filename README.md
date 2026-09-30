@@ -64,4 +64,4 @@ By the end of the lab, students should be able to:
 
 ## Author
 
-Guillaume Hoffmann
+Guillaume Hoffmann <guillaumh@gmail.com>
