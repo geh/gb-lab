@@ -61,3 +61,7 @@ By the end of the lab, students should be able to:
 * Maze game
 
 ![](gif/maze.gif)
+
+## Author
+
+Guillaume Hoffmann
